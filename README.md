@@ -1,5 +1,5 @@
 # calculator
-Tt is a simple project that created as a practice.
+It is a simple project that created as a practice.
 
 You can press buttons on screen with mouse or use a keyboard
 to input the equation. 
